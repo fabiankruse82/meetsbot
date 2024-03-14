@@ -1,17 +1,24 @@
 # meetsbot
 ## creates a bot that will simulate your active participation in a boring meeting
 1. Create a GCP Project:
+   
 1.1. Go to the Google Cloud Console: https://console.cloud.google.com/
+
 1.2. Create a new project.
+
 1.3. Enable the Google Calendar API and Google Meet API for your project.
+
 1.4. Generate OAuth 2.0 Credentials. Create OAuth 2.0 credentials to authenticate your application with the APIs.
+
 1.5. Download the client ID and client secret.
 
 2. Install Necessary Packages:
 2.1. Node.js and npm.
+   
 Make sure you have Node.js and npm installed on your system.
 
-3. Install Puppeteer using npm: 
+3. Install Puppeteer using npm:
+   
 3.1. npm install puppeteer.
 
 4. Install virtual audio device.
@@ -30,8 +37,8 @@ Use Puppeteer or manually join the Google Meet meeting with your regular audio s
 4.5. Test:
 4.5.1. Start playing the audio file in your media player.
 4.5.2. Join the Google Meet meeting and confirm that the audio from the media player is heard by other participants.
-5. Run script.
+8. Run script.
 
-6. Do whatever tf you want during a useless meeting.
+9. Do whatever tf you want during a useless meeting.
 
 Make sure that you alter code with text messages, emojis, and altered schedules. Also, code supplies the delivery of pre recorded messages like "good morning" etc.
