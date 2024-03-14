@@ -1,0 +1,21 @@
+{
+  "name": "meetsbot",
+  "version": "1.0.0",
+  "description": "1. Create a GCP Project:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "install "
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.4.1"
+  }
+}
